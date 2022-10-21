@@ -1,4 +1,4 @@
 class Category < ActiveRecord::Base
-  establish_connection(:development)
+  establish_connection(:production)
   self.table_name = 'category'
 end
