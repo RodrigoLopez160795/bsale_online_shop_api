@@ -50,6 +50,6 @@ test:
 #
 production:
   <<: *default
-  database: bsale_test_production
+  database: bsale_test
   username: bsale_test
   password: <%= ENV["BSALE_TEST_DATABASE_PASSWORD"] %>
