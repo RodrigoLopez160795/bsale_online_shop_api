@@ -1,6 +1,6 @@
 # Bsale test online shop API
 
-La Base Uri para acceder a cualquier petición es: [url](https://bsale-test-api-rodrigo.herokuapp.com)
+La Base Uri para acceder a cualquier petición es: [https://bsale-test-api-rodrigo.herokuapp.com]
 
 Esta aplicación cuenta con 2 controladores:
 
